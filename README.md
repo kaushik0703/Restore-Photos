@@ -1,4 +1,4 @@
-# [RestorePhotos.io](https://www.photorestore.io/)
+# [PhotoRestore.io](https://www.photorestore.io/)
 
 This project restores old face photos using AI.
 
